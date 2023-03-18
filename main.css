@@ -1,0 +1,16 @@
+.bg-dark {
+    color: #ffffff;
+}
+
+.card.custom-card {
+    border: none;
+    border-radius: round;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.6);
+}
+
+.form-control {
+    background-color: transparent;
+    border-radius: 5px solid #ffffff;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.6);
+    color: #ffffff;
+}
